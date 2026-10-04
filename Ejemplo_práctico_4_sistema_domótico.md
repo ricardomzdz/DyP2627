@@ -7,7 +7,7 @@ Microcontrolador de confort y seguridad en una vivienda. La detección de humo a
 
 ## Diagrama de Flujo
 
-![Diagrama de Flujo del Sistema Domótico](Ejemplo%20pr%C3%A1ctico%204.jpg)
+![Diagrama de Flujo del Sistema Domótico](./img/Ejemplo%20pr%C3%A1ctico%204.jpg)
 
 ### Explicación del Diagrama de Flujo
 
