@@ -5,7 +5,7 @@
 Una cinta transportadora industrial mueve bolas de plástico. Un sensor de tamaño (diámetro) y un sensor cromático leen cada unidad. Si la bola mide menos de $30\text{ mm}$ o el color es `"Desconocido"`, se considera defectuosa y un pistón la descarta. Si es correcta, se activa el desviador hacia su caja correspondiente (Rojo, Verde, Azul).
 
 * **Entradas:** `color_detectado` (Texto: `"Rojo"`, `"Verde"`, `"Azul"`, `"Desconocido"`), `diametro_mm` (Número entero).
-* **Proceso:** Comprobar si $\text{diametro\_mm} < 30$ o $\text{color\_detectado} == \text{"Desconocido"}$. Si es defectuosa, activar `Piston_Descarte`. Si es válida, bifurcar según `color_detectado` y activar el desviador adecuado.
+* **Proceso:** Comprobar si $\text{diametro\\_mm} < 30$ o $\text{color\\_detectado} == \text{"Desconocido"}$. Si es defectuosa, activar `Piston_Descarte`. Si es válida, bifurcar según `color_detectado` y activar el desviador adecuado.
 * **Salidas:** Activación del actuador adecuado (`Piston_Descarte`, `Desviador_Rojo`, `Desviador_Verde`, `Desviador_Azul`).
 
 ---
