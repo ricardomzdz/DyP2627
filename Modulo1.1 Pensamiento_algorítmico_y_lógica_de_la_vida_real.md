@@ -29,3 +29,16 @@ Para comunicarnos de forma universal entre ingenieros, utilizamos los esquemas n
 
 ---
 
+## Ejemplos Prácticos de Aplicación
+
+Para profundizar en el diseño algorítmico y la resolución de problemas en distintos entornos, puedes consultar los siguientes ficheros de ejemplo:
+
+1. [Ejemplo Práctico 0: Clasificador Manual y Contador de Naranjas y Limones](./Ejemplo_practico_0_clasificador_naranjas_limones.md)
+2. [Ejemplo Práctico 1: Clasificador Automático de Bolas de Colores](./ejemplo_pr%C3%A1ctico_2.md)
+3. [Ejemplo Práctico 4: Sistema Domótico de Climatización y Alarma Anti-Incendios](./ejemplo_pr%C3%A1ctico_4_sistema_dom%C3%B3tico.md)
+
+---
+
+## Entregas y Retos
+
+En el siguiente enlace se encuentran los [retos que deben entregar ↗️](https://drive.google.com/file/d/1a6wm5mDFsdccFjXgqNEx1d4baz1emhM4/view?usp=drive_link).
